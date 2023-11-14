@@ -30,8 +30,6 @@ function Card(props: CardProps): JSX.Element {
     secondClass,// Дополнительный класс для карточки.
   } = props;
 
-  console.log(children);
-
   /**
    * Класс для секции карточки на основе типа и индекса.
    * @type {("card-active" | "")}
