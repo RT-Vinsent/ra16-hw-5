@@ -2,6 +2,7 @@
 import './App.css';
 import CardList from './components/task1/CardList/CardList';
 import cards from './components/task1/data/cards';
+import Decomposition from './components/task2/Decomposition/Decomposition';
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
       <CardList id="cards" items={cards}/>
 
       {/* Компонент задачи №2 */}
-      {/* < /> */}
+      <Decomposition id="decomposition"/>
 
       {/* Компонент задачи №3 */}
       {/* < /> */}
