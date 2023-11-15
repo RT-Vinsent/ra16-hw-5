@@ -24,3 +24,10 @@
     margin-left: auto;
   } */
 }
+
+@media (max-width: 640px) {
+  .footer-card {
+    columns: 320px 1;
+    margin-left: 40px;
+  }
+}
