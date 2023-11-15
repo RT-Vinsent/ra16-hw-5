@@ -3,6 +3,7 @@ import './App.css';
 import CardList from './components/task1/CardList/CardList';
 import cards from './components/task1/data/cards';
 import Decomposition from './components/task2/Decomposition/Decomposition';
+import CollapseList from './components/task3/CollapseList/CollapseList';
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
       <Decomposition id="decomposition"/>
 
       {/* Компонент задачи №3 */}
-      {/* < /> */}
+      < CollapseList id="collapse" />
       
       {/* Просто подвал */}
       <footer className='footer'><p>Просто подвал</p></footer>
