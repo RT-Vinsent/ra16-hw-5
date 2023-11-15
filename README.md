@@ -7,7 +7,7 @@
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/vgs43dmv4jskqihp?svg=true)](https://ci.appveyor.com/project/RT-Vinsent/ra16-hw-5)
+[![Build status](https://ci.appveyor.com/api/projects/status/ay95pwgc2ri28dqt?svg=true)](https://ci.appveyor.com/project/RT-Vinsent/ra16-hw-5)
 
 [![pages-build-deployment](https://github.com/RT-Vinsent/ra16-hw-5/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RT-Vinsent/ra16-hw-5/actions/workflows/pages/pages-build-deployment)
 
@@ -15,15 +15,13 @@
 
 Композиция компонентов
 
-===
-
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
 <details>
 <summary>1. Карточки.</summary>
 
-Карточки
-===
+## Карточки
+
 
 Вам необходимо реализовать компонент карточек, позволяющий использовать себя следующим образом:
 
@@ -41,8 +39,7 @@
 <details>
 <summary>2. Декомпозиция.</summary>
 
-Декомпозиция
-===
+## Декомпозиция
 
 Вы работаете в стартапе, который решил тягаться с самим Яндексом в части предоставления контента. Это, конечно же, шутка, но задача нешуточная.
 
@@ -62,8 +59,7 @@
 <details>
 <summary>3. Collapse — необязательная задача.</summary>
 
-Collapse
-===
+## Collapse
 
 Вам поручено реализовать аналог компонента [Collapse](https://getbootstrap.com/docs/5.0/components/collapse/#example).
 
